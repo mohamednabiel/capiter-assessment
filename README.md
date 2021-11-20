@@ -17,7 +17,9 @@ there are multiple notes to be considered with the reviewing of the whole script
     and connectedd it with an availabilty zone.
 - also you will find the configuration of the route table and the assosciation with the internet Gate way.
 - you will find also that the instance is connected to a 20GB root volume and attached with a 100GB EBS.
+- you fill find an old credentilas to connect to AWS included in the provider.tf as i had an issue to configure them in the local credentials file. 
 - i was intending to modify the scripts into a module , but for sorry i don't have much time.
+
 ### Docker
 
 - you will find the docker file to build an image with the spring boot application.
