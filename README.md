@@ -1,4 +1,10 @@
 
+
+# hello reader:
+
+
+
+there are multiple notes to be considered with the reviewing of the whole scripts:
 ## Notes
 
 - you will find 4 directories.
